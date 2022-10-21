@@ -11,3 +11,5 @@ add by git-hub
 test push fech
 this is version git-hub 0,4
 
+this is vscode git
+this is version 0.5
